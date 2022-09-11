@@ -1,5 +1,5 @@
 # next-js-login
 
-Next.js 11 - User Registration and Login Example
+Next.js - Login
 
-Documentation and live demo available at 
+Live demo available at https://eldoraboo-nextjslogin.netlify.app/
